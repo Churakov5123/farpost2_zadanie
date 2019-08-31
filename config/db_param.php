@@ -1,4 +1,5 @@
 <?php
+
 return array(
     'host'   => 'localhost',
     'dbname' => 'farpost_admin',
