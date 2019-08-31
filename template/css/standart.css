@@ -1,0 +1,101 @@
+body {
+    /*background: white;*/
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+
+}
+.wrapper
+{
+    text-align: center; margin:2em;
+}
+
+
+.button
+{
+    text-decoration: none;
+    background:#ff6300;
+    padding:.3em 1em;
+    border-radius: .3em;
+    color:#fff;
+}
+.ajax-reply
+{
+    margin-top:2em;
+}
+
+#main
+{
+    text-align: center;
+    margin-top: 100px;
+}
+#foform {
+    margin-top: 80px;
+    text-align: center;
+    border: whitesmoke;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding: 10px; /* Поля вокруг текста */
+
+
+
+}
+#colform {
+    /*margin-left: 380px;*/
+}
+
+
+#batton {
+    background: #ff6300;
+    color: white;
+
+}
+
+#batton1 {
+    background: #ff6300;
+    color: white;
+
+}
+#knopka
+{
+    color: white;
+
+}
+#fotogalery
+{
+    margin-top: 10px;
+
+}
+#loader
+{
+    margin-top: 100px;
+    text-align: center;
+}
+#dropbox
+{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#bnext {
+    background: #ff6300;
+    color: white;
+    border-radius: 20px;
+    padding: 3px;
+
+}
+#bnext0
+{
+    background: #ff6300;
+    color: white;
+    border-radius: 20px;
+}
+
+#resetf
+{
+    background: #ff6300;
+    color: white;
+    border-radius: 20px;
+}
+
